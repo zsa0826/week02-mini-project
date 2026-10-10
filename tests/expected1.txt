@@ -1,1 +1,1 @@
-WRONG OUTPUT
+Result: 32 F
