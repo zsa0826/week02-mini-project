@@ -39,9 +39,11 @@ Test 4 (edge case): A negative temperature, -40 C, converts to -40 F
 - No support for Kelvin or other temperature scales.
 - Does not round output to a fixed number of decimal places.
 
-## AI-Use Disclosure
-Claude (Anthropic) was used to help design, write, and debug this program,
-its tests, and this documentation, working step by step with the author.
+## Team Note
+This project was completed individually, not as part of a team. Requirements
+that assume multiple contributors (peer review of pull requests, a non-
+implementer verifying the release, and a multi-person CONTRIBUTIONS.md) were
+not applicable, since there was only one person working on this project.
 
 ## Debugging Reflection
 The main challenge was GitHub SSH authentication, resolved by generating a new

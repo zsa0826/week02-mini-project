@@ -1,3 +1,3 @@
 | Member | Task(s) | Branch | Pull request |
 |--------|---------|--------|--------------|
-| Zayan Ahmed | Repository setup, README, src/main.cpp, test fixtures, test.sh, GitHub Actions workflow | feature/implementation | #1 |
+| Zayan Ahmed | All tasks (repository setup, README, src/main.cpp, test fixtures, test.sh, GitHub Actions workflow) — completed individually, not as a team | feature/implementation | #1 |
